@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Noto Sans Thai";
+    src: url("/resources/fonts/NotoSansThai-Regular.ttf") format("truetype");
+}
+
+html,
+body {
+    background-image: url("/public/imgs/so-white.png");
+}
